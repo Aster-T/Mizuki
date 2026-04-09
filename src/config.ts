@@ -273,24 +273,13 @@ export const navBarConfig: NavBarConfig = {
 			url: "/links/",
 			icon: "material-symbols:link",
 			children: [
-				{
-					name: "GitHub",
-					url: "https://github.com/LyraVoid/Mizuki",
-					external: true,
-					icon: "fa7-brands:github",
-				},
-				{
-					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
-					external: true,
-					icon: "fa7-brands:bilibili",
-				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
-				},
+				// {
+				// 	name: "GitHub",
+				// 	url: "https://github.com/LyraVoid/Mizuki",
+				// 	external: true,
+				// 	icon: "fa7-brands:github",
+				// },
+
 			],
 		},
 		{
@@ -372,11 +361,11 @@ export const profileConfig: ProfileConfig = {
 		speed: 80, // 打字速度（毫秒）
 	},
 	links: [
-		{
-			name: "Bilibili",
-			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/31344215",
-		},
+		// {
+		// 	name: "Bilibili",
+		// 	icon: "fa7-brands:bilibili",
+		// 	url: "https://space.bilibili.com/31344215",
+		// },
 		// {
 		// 	name: "Gitee",
 		// 	icon: "mdi:git",
