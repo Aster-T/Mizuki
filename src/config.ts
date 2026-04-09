@@ -125,7 +125,6 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
-				"/assets/desktop-banner/1.webp",
 				"/assets/desktop-banner/2.webp",
 				"/assets/desktop-banner/3.webp",
 				"/assets/desktop-banner/4.webp",
@@ -162,10 +161,10 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "Alex的神奇小屋", // 主页横幅主标题
+			title: "泥嚎", // 主页横幅主标题
 
 			subtitle: [
-				"Welcome to Alex's magical cabin!", // 主页横幅副标题，可以是字符串或字符串数组，数组时会启用打字机效果循环显示
+				"\\(@^0^@)/", // 主页横幅副标题，可以是字符串或字符串数组，数组时会启用打字机效果循环显示
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
