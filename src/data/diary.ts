@@ -16,8 +16,8 @@ const diaryData: DiaryItem[] = [
 	{
 		id: 1,
 		content:
-			"The falling speed of cherry blossoms is five centimeters per second!",
-		date: "2025-01-15T10:30:00Z",
+			"Diary Test. This is a sample diary entry to demonstrate the diary feature. 这是一个示例日记条目，用于展示日记功能。",
+		date: "2026-04-09T08:47:14Z",
 		images: ["/images/diary/sakura.jpg", "/images/diary/1.webp"],
 	},
 ];
