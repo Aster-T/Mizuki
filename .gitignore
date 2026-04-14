@@ -53,3 +53,7 @@ src/data/bilibili-data.json
 
 # Lighthouse CI
 .lighthouseci/
+
+# Obsidian
+.obsidian/
+Template/
